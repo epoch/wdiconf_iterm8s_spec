@@ -6,6 +6,7 @@ ROOM: Room 1
 TOPIC: Opening Ceremony & Welcome Speech
 SPEAKER: DT
 AVAILABILITY: 50
+TICKET PRICE: FOC
 REQUIREMENTS: None
 ___
 
@@ -14,6 +15,7 @@ ROOM: Room 2
 TOPIC: Enthusiastically target equity invested e-commerce
 SPEAKER: Matt Swann
 AVAILABILITY: 25
+TICKET PRICE: $25
 SUMMARY:
   As cross as a sanger no dramas lets throw a fairy floss. He's got a massive ropeable flamin gutful of bull bar. As cunning as a cracker how she'll be right dead dingo's donger. She'll be right bottlo my lets throw a rack off. As cross as a two up how as cunning as a clucky. She'll be right esky my stands out like a cut lunch commando. It'll be postie no worries grab us a pig's arse. Lets throw a rego to she'll be right not my bowl of rice. Grab us a piker with get a dog up ya christmas. She'll be right shit house flamin as cunning as a cut lunch commando.
 
@@ -26,6 +28,7 @@ ROOM: Room 3
 TOPIC: compellingly underwhelm leveraged partnerships
 SPEAKER: MJ
 AVAILABILITY: 30
+TICKET PRICE: $30
 SUMMARY:
   Now that there is the Tec-9, a crappy spray gun from South Miami. This gun is advertised as the most popular gun in American crime. Do you believe that shit? It actually says that in the little book that comes with it: the most popular gun in American crime. Like they're actually proud of that shit.
 
@@ -38,6 +41,7 @@ ROOM: Room 3
 TOPIC: continually reinvent standards compliant intellectual capital
 SPEAKER: Stewie
 AVAILABILITY: 30
+TICKET PRICE: $35
 SUMMARY:
   Pike furl plunder pillage Sea Legs coxswain lanyard interloper swab parley. Rutters warp avast jolly boat bounty rigging cable yardarm bilge rat snow. Jack Tar wench lugsail chantey coxswain Buccaneer parrel lad Sea Legs belay.
 
@@ -52,6 +56,7 @@ ROOM: Room 2
 TOPIC: uniquely target client-centered ROI
 SPEAKER: Bart Simpson
 AVAILABILITY: 25
+TICKET PRICE: $15
 SUMMARY:
   Bacon ipsum dolor amet tail ball tip landjaeger, t-bone prosciutto drumstick short loin pig shankle ham hock. Spare ribs tenderloin boudin jerky prosciutto. Porchetta landjaeger drumstick pork loin, sausage ribeye leberkas pig shankle rump ham salami sirloin cupim. Ribeye shankle ham hock boudin pork belly strip steak shank spare ribs shoulder short ribs hamburger corned beef fatback pig. Pig kevin short loin picanha pork belly pastrami doner tongue sirloin venison kielbasa capicola jerky. Cow kielbasa pork belly, jerky venison tenderloin ground round bresaola. Shank brisket venison, short ribs filet mignon corned beef bresaola pork belly alcatra picanha.
 
@@ -64,6 +69,7 @@ ROOM: Room 1
 TOPIC: authoritatively leverage other's out-of-the-box virtualization
 SPEAKER: Slyvester
 AVAILABILITY: 50
+TICKET PRICE: $20
 SUMMARY:
   Meowzer! hate dog, yet if it smells like fish eat as much as you wish. Thug cat i like big cats and i can not lie and need to chase tail, so tuxedo cats always looking dapper brown cats with pink ears for sweet beast. Where is my slave? I'm getting hungry always hungry. Destroy couch make muffins, yet pooping rainbow while flying in a toasted bread costume in space so love to play with owner's hair tie, but hide at bottom of staircase to trip human make meme, make cute face. Vommit food and eat it again damn that dog stand in front of the computer screen, for scratch at the door then walk away lick the other cats so hopped up on catnip, and make meme, make cute face. Love to play with owner's hair tie sleep on keyboard, or howl uncontrollably for no reason, throwup on your pillow refuse to drink water except out of someone's glass. Loves cheeseburgers.
 REQUIREMENTS: 3 tins of cat food
@@ -74,6 +80,7 @@ ROOM: Room 2
 TOPIC: competently plagiarize one-to-one imperatives
 SPEAKER: Ada Lovelace
 AVAILABILITY: 25
+TICKET PRICE: $30
 SUMMARY:
   Powder oat cake chocolate marzipan jujubes. Chocolate cake tootsie roll cupcake gummies ice cream. Toffee chupa chups cotton candy halvah jujubes. Fruitcake gummies pastry fruitcake caramels. Muffin gummies caramels sweet chocolate chocolate cake pudding. Jujubes apple pie bonbon chocolate bar tootsie roll soufflé pastry gummi bears.
   Powder ice cream sweet roll icing powder cake. Sugar plum candy canes gingerbread bear claw tart oat cake sesame snaps. Cupcake pastry oat cake cupcake jelly chocolate bar fruitcake pastry. Lemon drops dessert jujubes pudding sweet roll macaroon ice cream bear claw. Lollipop lemon drops donut jelly chocolate tiramisu tiramisu cupcake. Marshmallow chocolate bar cheesecake soufflé carrot cake pastry.
@@ -91,6 +98,7 @@ ROOM: Room 1
 TOPIC: proactively grow bleeding-edge methods of empowerment
 SPEAKER: Spounge Bob
 AVAILABILITY: 50
+TICKET PRICE: $25
 SUMMARY:
   Felis cappuccino catcher helllloooo um yesbaby brad pitt? Educated helllloooo vincent price clive dunn kris kristofferson. tom selleck, vincent price helllloooo man of the year 1986 tom selleck dolor sit amet clive dunn educated furry facial friend dolor sit amet kris kristofferson., john cleese furry facial friend vincent price theodore roosevelt clive dunn alpha trion dolor sit amet super mario tom selleck kris kristofferson. dolor sit amet man of the year 1986 admiral educated helllloooo.
 
@@ -104,6 +112,7 @@ ROOM: Room 2
 TOPIC: appropriately morph multifunctional best practices
 SPEAKER: Towelie
 AVAILABILITY: 25
+TICKET PRICE: $10
 SUMMARY:
   Three-martini lunch one-sheet paddle on both sides. Pro-sumer software root-and-branch review. Can we take this offline i don't want to drain the whole swamp, i just want to shoot some alligators nor even dead cats bounce, and that jerk from finance really threw me under the bus, but three-martini lunch. Can you ballpark the cost per unit for me. Granularity prethink, can we align on lunch orders, for drink the Kool-aid, so we're ahead of the curve on that one. Social currency timeframe. Critical mass. Three-martini lunch idea shower, for hit the ground running quick-win. Core competencies window-licker, and this proposal is a win-win situation which will cause a stellar paradigm shift, and produce a multi-fold increase in deliverables.
 
@@ -118,6 +127,7 @@ ROOM: Room 1
 TOPIC: conveniently myocardinate cutting-edge outsourcing
 SPEAKER: JB
 AVAILABILITY: 50
+TICKET PRICE: $25
 SUMMARY:
   This was not according to brief I need a website. How much will it cost try a more powerful colour I know somebody who can do this for a reasonable cost. We are a big name to have in your portfolio I think we need to start from scratch, im not sure, try something else. The target audience is makes and famles aged zero and up we are your relatives low resolution? It looks ok on my screen could you solutionize that for me, we are a startup. Thanks for taking the time to make the website, but i already made it in wix needs to be sleeker, so anyway, you are the designer, you know what to do can you rework to make the pizza look more delicious thats not what i saw in my head at all needs to be sleeker, nor do less with more. This was not according to brief jazz it up a little. The hair is just too polarising there are more projects lined up charge extra the next time, and the website doesn't have the theme i was going for nor can you make the font bigger? and I want you to take it to the next level. Is this the best we can do can you make the logo bigger yes bigger bigger still the logo is too big will royalties in the company do instead of cash for I got your invoice...it seems really high, why did you charge so much, and we need more images of groups of people having non-specific types of fun, I got your invoice...it seems really high, why did you charge so much.
 
@@ -131,6 +141,7 @@ ROOM: Room 2
 TOPIC: collaboratively envisioneer client-centric virtualization
 SPEAKER: DT
 AVAILABILITY: 25
+TICKET PRICE: $30
 SUMMARY:
   We need a paradigm shift critical mass, but we need to have a Come to Jesus meeting with Phil about his attitude. Are we in agreeance bench mark, yet personal development. Future-proof personal development quick win, nor UI personal development, and social currency, nor overcome key issues to meet key milestones. Herding cats strategic fit move the needle touch base. Waste of resources. This vendor is incompetent sacred cow strategic staircase, but nail jelly to the hothouse wall back to the drawing-board staff engagement, for hammer out. That jerk from finance really threw me under the bus personal development nor closer to the metal. Accountable talk this vendor is incompetent
 
